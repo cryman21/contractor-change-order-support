@@ -1,2 +1,12 @@
-# contractor-change-order-support
-Support page for Contractor Change Order app.
+# Contractor Change Order – Support
+
+If you need help, have questions, or found a bug, please contact us:
+
+📧 Email: support@glabsstudio.com
+
+We will respond as soon as possible.
+
+---
+
+## About the App
+Contractor Change Order helps construction professionals create, manage, and export change orders quickly and efficiently.
