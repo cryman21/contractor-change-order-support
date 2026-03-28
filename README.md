@@ -2,7 +2,7 @@
 
 If you need help, have questions, or found a bug, please contact us:
 
-📧 Email: support@glabsstudio.com
+📧 Email: support.glabsstudio@gmail.com
 
 We will respond as soon as possible.
 
